@@ -1,0 +1,16 @@
+streamlit
+openai
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+pdfplumber
+pdfminer.six
+pillow
+pytesseract
+opencv-python
+camelot-py
+tabula-py
+scikit-learn
+tqdm
+python-dotenv
