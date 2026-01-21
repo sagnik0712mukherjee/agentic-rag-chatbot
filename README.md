@@ -1,4 +1,4 @@
-# 🚀 RAG Chatbot for Complex PDFs (Tesla Impact Report)
+# 🚀 RAG Chatbot for Complex PDFs
 
 A **production-style Retrieval-Augmented Generation (RAG) chatbot** that parses complex PDFs containing **text, tables, and images**, converts them into structured knowledge, stores them in a vector database, and enables conversational Q&A with memory, guardrails, and evaluation.
 
