@@ -6,24 +6,6 @@ This project intentionally avoids agent overengineering and focuses on **clarity
 
 ---
 
-## 🎯 Why No CrewAI?
-
-This system **does NOT use CrewAI** by design.
-
-While agentic frameworks are powerful, this project prioritizes:
-- Deterministic behavior
-- Easier debugging
-- Lower latency & cost
-- Clear separation via modules (not agents)
-
-The architecture still supports:
-- Guardrails beyond prompting
-- Retrieval & generation evaluation
-- Memory management
-- Future extensibility
-
----
-
 ## ✨ Core Features
 
 - 📄 **Advanced PDF Parsing**
